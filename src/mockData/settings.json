@@ -1,0 +1,7 @@
+{
+    "name": "",
+    "age": 0,
+    "amountForecastDays": 5,
+    "weatherUpdateRate": 30,
+    "tempScale": "Celsius"
+}
